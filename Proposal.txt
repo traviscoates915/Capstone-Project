@@ -1,0 +1,31 @@
+Project Proposal
+
+
+Description
+
+Stack Focus: This will be a full stack application with slightly more focus on the backend.
+
+Type: This will be a web application.
+
+Goal: This application will allow users to diagnose plant diseases and make recommendations to cure those diseases for multiple species of plants.
+
+Users: Horticulturists and recreational gardeners.
+
+Data: This application will use plant disease images from one or more databases to train a machine learning model. It will also api's to generate recommended fixes.
+
+
+Project Breakdown
+
+Design Database Schema: Determine the models and database schema required for your project.
+
+Source the Data: Determine which databases and API's to use.
+
+Application Flow: Design how the user will navigate through the application.
+
+Set Up Backend and Database: Configure the environmental variables on the framework and set up database.
+
+Set Up Frontend: Set up frontend framework and link it to the backend with an API call.
+
+User Authentication: Set up ability to authenticate (login and sign up) as a user.
+
+Upload user Image: Set up ability for user to upload image in the application.
